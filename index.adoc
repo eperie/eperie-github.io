@@ -1,0 +1,15 @@
+//
+// file: index.adoc
+//
+= Éric's Périé Blog
+:sectnums:
+:toc: left
+:toclevels: 3
+
+:toc!:
+
+== Short articles on using ARM cortex-a armv8-a/armv8 cores from a hobbyist perspective
+
+*2015-12-22*
+
+Blog creation.
